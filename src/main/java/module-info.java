@@ -3,6 +3,6 @@ module com.mycompany.poryectoxml {
     requires java.xml.bind;
     requires jakarta.activation;
     requires java.activation;
-    opens com.pablogalvezrodriguez.proyectoxml to java.xml.bind;
-    exports com.pablogalvezrodriguez.proyectoxml;
+    opens com.mycompany.poryectoxml to java.xml.bind;
+    exports com.mycompany.poryectoxml;
 }

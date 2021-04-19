@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<videojuegos>
+    <videojuego id="1234">
+        <nombre>Super Smash Bros. Ultimate</nombre>
+        <genero>Lucha</genero>
+        <desarrollador>Sora LTD.</desarrollador>
+        <distribuidor>Nintendo</distribuidor>
+        <precio>60.0</precio>
+        <favorito>false</favorito>
+        <fechaLanzamiento>2018-03-11</fechaLanzamiento>
+    </videojuego>
+    <videojuego id="1235">
+        <nombre>Super Mario Oddysey</nombre>
+        <genero>plataformas</genero>
+        <desarrollador>Nintendo</desarrollador>
+        <distribuidor>Nintendo</distribuidor>
+        <precio>45.0</precio>
+        <favorito>false</favorito>
+        <fechaLanzamiento>2018-04-12</fechaLanzamiento>
+    </videojuego>
+</videojuegos>

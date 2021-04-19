@@ -1,4 +1,4 @@
-package com.pablogalvezrodriguez.proyectoxml;
+package com.mycompany.poryectoxml;
 
 public class SystemInfo {
 
